@@ -119,7 +119,7 @@ campaignTrail_temp.candidate_json = [
             "electoral_victory_message": "This guy wins!",
             "electoral_loss_message": "This guy loses!",
             "no_electoral_majority_message": "We all win?",
-            "description_as_running_mate": "<p style= \"font-size: 94%; font-family:helvetica; margin:5px;\">Timothy M. Kaine is a man so remarkably unremarkable you’d hardly think he’s one bad day away from becoming leader of the free world.</p><p style= \"font-size: 94%; font-family:helvetica; margin:5px;\">You picked Timothy M. Kaine as a so-called ‘Governing Partner’. He is not someone many people think of in their day-to-day life. In any case, it’s clear you will not be able to lose an inch of her support if you want to successfully defend your newly gained position, so perhaps the Vice President-elect will have to either learn to pull his weight on the trail, or take his leave.</p>",
+            "description_as_running_mate": "<p style= \"font-size: 94%; font-family:helvetica; margin:5px;\">Timothy M. Kaine is a man so remarkably unremarkable you’d hardly think he’s one bad day away from becoming leader of the free world.</p><p style= \"font-size: 94%; font-family:helvetica; margin:5px;\">You picked Timothy M. Kaine as a so-called ‘Governing Partner’. He is not someone many people think of in their day-to-day life. In any case, it’s clear you will not be able to lose an inch of her support if you want to successfully defend your newly gained position, Vice President-elect will have to learn to pull his weight this time around.</p>",
             "candidate_score": 1,
             "running_mate": true
         }
