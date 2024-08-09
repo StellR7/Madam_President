@@ -9590,5 +9590,19 @@
         "banner_data": {}
     }
     ]
-    
-    
+
+//let forTest = 'campaignTrail_temp.questions_json = [
+  //      {
+      //      "model": "campaign_trail.question",
+    //        "pk": 10000,
+        //    "fields": {
+          //      "priority": 0,
+            //    "description": "Question Here",
+              //  "likelihood": 1
+//            }';
+
+// let testData = JSON.parse(forTest);
+
+// testData.fields.description = "this works!";
+
+// return JSON.stringify(testData);
