@@ -11,7 +11,7 @@ campaignTrail_temp.election_json = [
             "image_url": "https://i.imgur.com/5W376u9.jpeg",
             "winning_electoral_vote_number": 270,
             "advisor_url": "",
-            "recommended_reading": "<ul>\n<li><a href=https://www.chicagotribune.com/opinion/editorials/ct-edit-chicago-tribune-biden-endorsement-20200925-lnyxsb5qvrftnjjmj3rnzj33jy-story.html>Our Case For Joe Biden</a></li>\n<li><a href=https://nationalinterest.org/feature/case-trump-166808>The Case For Trump</a></li>\n<li><a href=https://www.npr.org/2020/11/18/935730100/how-biden-won-ramping-up-the-base-and-expanding-margins-in-the-suburbs>How Biden Won: Ramping Up The Base And Expanding Margins In The Suburbs</a></li>\n<li><a href=https://www.prospectmagazine.co.uk/politics/donald-trump-joe-biden-us-election-almost-win-votes-concede>Why Did Trump Almost Win?</a></li>\n<li><a href=https://www.hoover.org/research/no-evidence-voter-fraud-guide-statistical-claims-about-2020-election>No Evidence For Voter Fraud: A Guide To Statistical Claims About The 2020 Election</a></li>\n</ul>",
+            "recommended_reading": "<ul>\n<p><a href=https://www.chicagotribune.com/opinion/editorials/ct-edit-chicago-tribune-biden-endorsement-20200925-lnyxsb5qvrftnjjmj3rnzj33jy-story.html>Our Case For Joe Biden</a></p>\n<p><a href=https://nationalinterest.org/feature/case-trump-166808>The Case For Trump</a></p>\n<p><a href=https://www.npr.org/2020/11/18/935730100/how-biden-won-ramping-up-the-base-and-expanding-margins-in-the-suburbs>How Biden Won: Ramping Up The Base And Expanding Margins In The Suburbs</a></p>\n<p><a href=https://www.prospectmagazine.co.uk/politics/donald-trump-joe-biden-us-election-almost-win-votes-concede>Why Did Trump Almost Win?</a></p>\n<p><a href=https://www.hoover.org/research/no-evidence-voter-fraud-guide-statistical-claims-about-2020-election>No Evidence For Voter Fraud: A Guide To Statistical Claims About The 2020 Election</a></p>\n</ul>",
             "has_visits": 1,
             "no_electoral_majority_image": "../static/images/2012-no-majority.jpg"
         }
@@ -119,7 +119,7 @@ campaignTrail_temp.candidate_json = [
             "electoral_victory_message": "This guy wins!",
             "electoral_loss_message": "This guy loses!",
             "no_electoral_majority_message": "We all win?",
-            "description_as_running_mate": "<p style= \"font-size: 94%; font-family:helvetica; margin:5px;\">Timothy M. Kaine is a man so remarkably unremarkable you’d hardly think he’s one bad day away from becoming leader of the free world.</p><p style= \"font-size: 94%; font-family:helvetica; margin:5px;\">You picked Timothy M. Kaine as a so-called ‘Governing Partner’. He is not someone many people think of in their day-to-day life. In any case, it’s clear you will not be able to lose an inch of her support if you want to successfully defend your newly gained position, Vice President-elect will have to learn to pull his weight this time around.</p>",
+            "description_as_running_mate": "<p style= \"font-size: 94%; font-family:helvetica; margin:5px;\">Timothy M. Kaine is a man so remarkably unremarkable you’d hardly think he’s one bad day away from becoming leader of the free world.</p><p style= \"font-size: 94%; font-family:helvetica; margin:5px;\">You picked Timothy M. Kaine as a so-called ‘Governing Partner’. He is not someone many people think of in their day-to-day life. In any case, it’s clear you will not be able to lose an inch of her support if you want to successfully defend your newly gained position, so perhaps the Vice President-elect will have to either learn to pull his weight on the trail, or take his leave.</p>",
             "candidate_score": 1,
             "running_mate": true
         }
@@ -180,22 +180,22 @@ jet_data = {
 }
 
 //#startcode
+
 quotes = [
-    "\"The only limit to our realization of tomorrow is our doubts of today.\" - Franklin D. Roosevelt",
-    "\"In the end, we will remember not the words of our enemies, but the silence of our friends.\" - Martin Luther King, Jr.",
-    "\"The purpose of our lives is to be happy.\" - Dalai Lama",
-    "\"Life is what happens when you're busy making other plans.\" - John Lennon",
-    "\"Get busy living or get busy dying.\" - Stephen King",
-    "\"You have within you right now, everything you need to deal with whatever the world can throw at you.\" - Brian Tracy",
-    "\"It is impossible to know what happens in the fog of war.\" - Hillary Clinton"
-];
-
-var randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
-
-var corrr = `<h2>HILLARY</h2><font id="wittyquote" size="4" color="white"><em>` + randomQuote + `</em></font>`;
+    `“If I want to knock a story off the front page, I just change my hairstyle.” - Hillary Clinton`,
+    `“Probably my worst quality is that I get very passionate about what I think is right. ” - Hillary Clinton`,
+    `“Life is too short to dwell on what might have been.” - Hillary Clinton`,
+    `“In this world and the world of tomorrow, we must go forward together or not at all.” - Hillary Clinton`,
+    `“Joan of Arc said a lot of interesting things before they burned her at the stake.” - Hillary Clinton`,
+    `"It is impossible to know what happens in the fog of war." - Hillary Clinton`,
+    `“Everything that happens in America happens in New York.” - Hillary Clinton`
+    ]
+selQuote = quotes[Math.round(Math.random()*(quotes.length - 1))]
+corrr = `<h2 style = \"font-family: sharp-df5f60e4-5b83-4ccd-96c9-d3dd45a4aa57-minimal, sharp-df5f60e4-5b83-4ccd-96c9-d3dd45a4aa57-full; font-weight: bold;\">MADAM PRESIDENT</h2><p style= \"font-size: 114%; font-family:helvetica; margin:5px; color:white;\"><em>` + selQuote + `</em></p>`;
 
 // Everything past here is all the fancy shit
 
+//  this will be used later maybe for changing the clinton/kaine banner >>> document.getElementsById("campaign_sign").innerHTML += "<img height='200' width='200' alt='testImage' src='https://i.imgur.com/CKxWLJU.gif'>";
 
 nct_stuff.themes[nct_stuff.selectedTheme].coloring_title = "#020070";
 
@@ -205,21 +205,31 @@ document.getElementsByClassName("game_header")[0].style.backgroundColor = nct_st
 
 $("#game_window")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_window;
 
-$(".container")[0].style.backgroundColor = "#262a40";
+$(".container")[0].style.backgroundColor = "#18448f";
 
 document.getElementById("header").src = "https://i.imgur.com/uONHG5h.jpeg";
 
 document.body.background = "https://i.imgur.com/MBIluiE.jpeg";
 
-document.head.innerHTML += "<style>#results_container {color:#000000;} .inner_window_w_desc {background-color:#31394f !important;}</style>";
+document.head.innerHTML += "<style>#results_container {color:#000000;} .inner_window_w_desc {background-color:#1c2b54 !important;}</style>";
 
-document.getElementById("inner_window_1").style = `background-color: rgb(35, 30, 112); color: #d8dde6;`
+document.getElementById("inner_window_1").style = `background-color: #0f1f5e; color: #d8dde6;`
 
-document.getElementById("inner_window_1").children[1].innerHTML = `<li>Welcome to HRC.</li><li>An Alternate History where Hillary Clinton was elected the 45th President of the United States.</li><li>You will determine her policies, actions, and resolve from inauguration day, up until November 2020.</li><li>Your decisions will affect the country, both nationally and in individual states.</li><li>Your decisions will ultimately determine the opposing candidate you face in the 2020 election.</li><li>The game contains Choose Your Own Adventure elements, secret endings and achievements.</li><li>Have Fun!</li>`;
+document.getElementById("inner_window_1").children[1].innerHTML = `<p>Welcome, Madam President.</p><p>A History mod following Hillary Clinton's election in 2016.</p><p>As the 45th President of the United States, you will determine policy from inauguration, up until November 2020.</p><p>Your decisions will affect the country, both nationally and in individual states.</p><p>Your decisions will ultimately determine the opposing candidate you face in the 2020 election.</p><p>The game contains Choose Your Own Adventure elements, secret endings and achievements.</p><p>Have Fun!</p>`;
 
 document.getElementById('game_start').innerHTML = 'Take Office';
 
-document.styleSheets[0].insertRule(".inner_window_w_desc { background-color: #3d3d3d !important; border-color: #10018b; margin:1em 0 0 0.5em !important;padding-top: 0.5em !important;}", 0);
+document.styleSheets[0].insertRule("#credits{ color: #d8dde6; }", 0);
+
+document.styleSheets[0].insertRule('#election_year_form h3 { color: #d8dde6; }', 0);
+
+document.styleSheets[0].insertRule('#candidate_form h3 { color: #d8dde6; }', 0);
+
+document.styleSheets[0].insertRule('#running_mate_form h3 { color: #d8dde6; }', 0);
+
+document.styleSheets[0].insertRule('#game_options h3 { color: #d8dde6; }', 0);
+
+document.styleSheets[0].insertRule('#difficulty_level h3 { color: #d8dde6; }', 0);
 
 document.styleSheets[0].insertRule(".inner_window_question{ margin:1em 0 .7em 0.5em !important;padding-top: 0.3em !important;}", 0);
 
@@ -227,7 +237,7 @@ document.styleSheets[0].insertRule("#candidate_description_window { color: #ffff
 
 document.styleSheets[0].insertRule("#running_mate_description_window { color: #ffffff; background-color: #111d2b }", 0);
 
-document.styleSheets[0].insertRule("#election_description_window { background-color: #111d2b }", 0);
+document.styleSheets[0].insertRule("#election_description_window { background-color: #0e0e2e }", 0);
 
 document.styleSheets[0].insertRule("#opponent_selection_description_window { color: #ffffff; background-color: #111d2b }", 0);
 
@@ -243,7 +253,7 @@ document.querySelector('.campaign_trail_start_emphasis').style.backgroundColor =
 
 document.styleSheets[0].insertRule("#progress_bar { color: #ffffff; background-color: #111d2b }", 0);
 
-document.styleSheets[0].insertRule(`#map_container { background-image: url("https://i.imgur.com/rtKNZ8u.jpeg")`, 0);
+document.styleSheets[0].insertRule(`#map_container { background-image: url("https://i.imgur.com/9kGlMsT.jpeg")`, 0);
 
 document.styleSheets[0].insertRule(".inner_window_sign_display { color: #ffffff; background-color: #111d2b }", 0);
 
