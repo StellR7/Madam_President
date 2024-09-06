@@ -8,7 +8,7 @@
             "pk": 10000,
             "fields": {
                 "priority": 0,
-                "description": "Question Here",
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">The election was closer than it should have been. If it weren't for Wisconsin of all places, you wouldn’t be here right now. You stand before a massive crowd after your inauguration moments ago. They, and the entire country, are uncertain of the future. What do you have to say, Madam President?",
                 "likelihood": 1
             }
         },
@@ -17,7 +17,7 @@
             "pk": 10100,
             "fields": {
                 "priority": 0,
-                "description": "Question Here",
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">President Obama nominated Merrick Garland to fill a vacancy in the Supreme Court. Mitch has held up the nomination and kept the seat open since last year, and now that you’re president, he has not said if he will continue this game.</span>",
                 "likelihood": 1
             }
         },
@@ -26,7 +26,7 @@
             "pk": 10200,
             "fields": {
                 "priority": 0,
-                "description": "Question Here",
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Madam President, as president you have a promise to fulfill. Leaving the Trans-Pacific Partnership. On the campaign trail, you mentioned it alot, and Obama didn't quite like it. Maybe you could not look like an establishment hack for once?</span>",
                 "likelihood": 1
             }
         },
@@ -35,7 +35,7 @@
             "pk": 10300,
             "fields": {
                 "priority": 0,
-                "description": "Question Here",
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">The people floated for your cabinet so far have gone over without a hitch. Though… Madam President, they are saying it leaked that you are considering Howard Schultz to be your Secretary of Labor, protesters have begun amassing outside the White House.</span>",
                 "likelihood": 1
             }
         },
@@ -44,7 +44,7 @@
             "pk": 10400,
             "fields": {
                 "priority": 0,
-                "description": "Question Here",
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Your Attorney General, Janet Napolitano, and National Security Advisor, Jake Sullivan, have arrived at your desk with something appalling. There is evidence that the Trump campaign has coordinated with, and been supported by, the Russian Government.</span>",
                 "likelihood": 1
             }
         },
@@ -53,7 +53,7 @@
             "pk": 10500,
             "fields": {
                 "priority": 0,
-                "description": "Question Here",
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Khan Shaykhun is the new thing. They are saying the Syrians launched a hundreds dead chemical strike. Of course, with help from the Kremlin. The shock on the ground is big, and your office is expected to issue a response.</span>",
                 "likelihood": 1
             }
         },
@@ -62,7 +62,7 @@
             "pk": 10600,
             "fields": {
                 "priority": 0,
-                "description": "Question Here",
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">NAFTA was your husband’s crowning achievement… If you ask anyone but those pesky workers. Barrack promised to negotiate it, but backed off due to the recession. With your, quite frankly, thin victory you cannot afford to anger the rust belt any more.</span>",
                 "likelihood": 1
             }
         },
@@ -71,7 +71,7 @@
             "pk": 10700,
             "fields": {
                 "priority": 0,
-                "description": "Question Here",
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Climate change. The biggest issue that those college students care about. They are doing things. Protests. Campuses are alight with encampments and D.C. is filled with demonstrators. These people want action, and they want it now.</span>",
                 "likelihood": 1
             }
         },
@@ -80,7 +80,7 @@
             "pk": 10800,
             "fields": {
                 "priority": 0,
-                "description": "Question Here",
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">North Korea has tested another set of ballistic missiles, and components have been found that show a nuclear program. You are meeting at the G20 summit days after. The UN is up in arms and the public is seeking a tough response.</span>",
                 "likelihood": 1
             }
         },
@@ -89,7 +89,7 @@
             "pk": 10900,
             "fields": {
                 "priority": 0,
-                "description": "Question Here",
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Carrying torches and screeching ‘White Power!’ Hundreds of freaks and deplorables have rallied around Charlottesville to oppose the removal of a Confederate Statue. One of these Nazi’s rammed his car into the crowd, killing counterprotestor Heather Heyer.</span>",
                 "likelihood": 1
             }
         },
@@ -98,7 +98,7 @@
             "pk": 11000,
             "fields": {
                 "priority": 0,
-                "description": "Question Here",
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Janet and Jake come up to you. The case is still being built, but it looks very strong. Most of Trump's inner circle are involved, and investigation continues on the man himself. Federal indictments could be passed.</span>",
                 "likelihood": 1
             }
         },
@@ -107,7 +107,7 @@
             "pk": 11100,
             "fields": {
                 "priority": 0,
-                "description": "Question Here",
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">They say it’s the most deadly shooting in history. Some awful things in Las Vegas. Dozens killed, hundreds wounded. And it only took one shooter. Your stance on guns is no surprise to anyone, but it’s time to draft a response.</span>",
                 "likelihood": 1
             }
         },
@@ -116,7 +116,7 @@
             "pk": 11200,
             "fields": {
                 "priority": 0,
-                "description": "Question Here",
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Anthony Kennedy, a conservative, is retiring from the Supreme Court. Democrats in the senate salivate at the thought, and you are being expected to rush through a nominee quickly, with broad support.</span>",
                 "likelihood": 1
             }
         },
@@ -125,7 +125,7 @@
             "pk": 11300,
             "fields": {
                 "priority": 0,
-                "description": "Question Here",
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">This Midterm race, Democrats in both chambers of congress are under fire, with the outcome potentially killing your agenda. Pundits are predicting a red wave that could deliver up to both chambers to the deplorables, the time has come to pray and defend the hill.</span>",
                 "likelihood": 1
             }
         },
@@ -134,7 +134,7 @@
             "pk": 11400,
             "fields": {
                 "priority": 0,
-                "description": "Question Here",
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">These Republicans, they get a majority and the first thing they try is outlawing DACA. They want to deport all the undocumented minors, and whatever happens, you will get attacked for something.</span>",
                 "likelihood": 1
             }
         },
@@ -143,7 +143,7 @@
             "pk": 11500,
             "fields": {
                 "priority": 0,
-                "description": "Question Here",
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Erdogan calls your office. He is telling you Turkey is preparing to invade Syria to set up a buffer zone. His small problem? One-thousand soldiers of the U.S. Military is in the way. He hopes you will take care of such things.</span>",
                 "likelihood": 1
             }
         },
@@ -152,7 +152,7 @@
             "pk": 11600,
             "fields": {
                 "priority": 0,
-                "description": "Question Here",
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">The full report is done. Trump, his campaign, the Republican Ranks, deep and irrefutable collusion with Putin. Mueller, a republican himself, has it all down in a report, all the evidence and all the findings. The question is what to do with it?</span>",
                 "likelihood": 1
             }
         },
@@ -161,7 +161,7 @@
             "pk": 11700,
             "fields": {
                 "priority": 0,
-                "description": "Question Here",
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">The Republicans, wanting nothing more than to have Obama crucified, are going after his best work. The Affordable Care Act. What did those midterm voters think was going to happen? And now you have to deal with this.</span>",
                 "likelihood": 1
             }
         },
@@ -170,7 +170,7 @@
             "pk": 11800,
             "fields": {
                 "priority": 0,
-                "description": "Question Here",
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">You are woken up at night, as you get into a rushed CIA meeting. That insane wacko, Netenyahu, did something big. Really big. Qasem Soleimani is dead, shot by a Mossad agent. These Israelis have gone insane.</span>",
                 "likelihood": 1
             }
         },
@@ -179,7 +179,7 @@
             "pk": 11900,
             "fields": {
                 "priority": 0,
-                "description": "Question Here",
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">The Republicans, fully engulfed by protectionist quackery, have proposed a bill. They want an expanded Tariffs, and immediate renegotiate of all foreign trade deals. Obviously delusional, the bill is gaining traction with the Republican ranks.</span>",
                 "likelihood": 1
             }
         },
@@ -188,7 +188,7 @@
             "pk": 12000,
             "fields": {
                 "priority": 0,
-                "description": "Question Here",
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">With the recent actions in the middle east, the Iranian Nuclear deal is feeling <i>very</i> tenuous. You get a call from Khomeini, he’s telling you he's about to break the deal off.</span>",
                 "likelihood": 1
             }
         },
@@ -197,7 +197,7 @@
             "pk": 12100,
             "fields": {
                 "priority": 0,
-                "description": "Question Here",
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Reports are flooding in from all over the world: A concerning virus outbreak in central China has rapidly turned into a global crisis, as it propagates throughout the world as a feverish pace. With the people in chaos, and toilet paper flying off the shelves for some reason, how do we keep the ship of state afloat?</span>",
                 "likelihood": 1
             }
         },
@@ -206,7 +206,7 @@
             "pk": 12200,
             "fields": {
                 "priority": 0,
-                "description": "Question Here",
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Question Here</span>",
                 "likelihood": 1
             }
         },
@@ -215,7 +215,7 @@
             "pk": 12300,
             "fields": {
                 "priority": 0,
-                "description": "Question Here",
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Question Here</span>",
                 "likelihood": 1
             }
         },
@@ -224,7 +224,7 @@
             "pk": 12400,
             "fields": {
                 "priority": 0,
-                "description": "Question Here",
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Election Day is drawing closer, and facing the prospect of a Republican administration, the progressives have suddenly changed their tune. With no primary challenge to speak of, you’re essentially free to push your exciting message for a few extra weeks. What will you say, Madam President?</span>",
                 "likelihood": 1
             }
         },
@@ -233,7 +233,7 @@
             "pk": 12500,
             "fields": {
                 "priority": 0,
-                "description": "Question Here",
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Question Here</span>",
                 "likelihood": 1
             }
         },
@@ -242,7 +242,7 @@
             "pk": 12600,
             "fields": {
                 "priority": 0,
-                "description": "Question Here",
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">After securing establishment support early on as the heir apparent, Ted Cruz strides onstage at the Republican National Convention as their nominee. Along with his running mate, Nikki Haley, he rips into your administration for its ‘elitism’ and for ‘ignoring real Americans’. Madam President, what’s the strategy?</span>",
                 "likelihood": 1
             }
         },
@@ -251,7 +251,7 @@
             "pk": 12700,
             "fields": {
                 "priority": 0,
-                "description": "Question Here",
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Question Here</span>",
                 "likelihood": 1
             }
         },
@@ -260,7 +260,7 @@
             "pk": 12800,
             "fields": {
                 "priority": 0,
-                "description": "Question Here",
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Question Here</span>",
                 "likelihood": 1
             }
         },
@@ -269,7 +269,7 @@
             "pk": 12900,
             "fields": {
                 "priority": 0,
-                "description": "Question Here",
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Question Here</span>",
                 "likelihood": 1
             }
         },
@@ -278,7 +278,7 @@
             "pk": 13000,
             "fields": {
                 "priority": 0,
-                "description": "Question Here",
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Question Here</span>",
                 "likelihood": 1
             }
         },
@@ -287,7 +287,7 @@
             "pk": 13100,
             "fields": {
                 "priority": 0,
-                "description": "Question Here",
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Question Here</span>",
                 "likelihood": 1
             }
         },
@@ -296,7 +296,7 @@
             "pk": 13200,
             "fields": {
                 "priority": 0,
-                "description": "Question Here",
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Question Here</span>",
                 "likelihood": 1
             }
         },
@@ -305,7 +305,7 @@
             "pk": 13300,
             "fields": {
                 "priority": 0,
-                "description": "Question Here",
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Question Here</span>",
                 "likelihood": 1
             }
         },
@@ -314,7 +314,7 @@
             "pk": 13400,
             "fields": {
                 "priority": 0,
-                "description": "Question Here",
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Question Here</span>",
                 "likelihood": 1
             }
         }
@@ -323,1122 +323,1122 @@
     campaignTrail_temp.answers_json = [
         {
             "model": "campaign_trail.answer",
-            "pk": 10001,
+            "pk": 10010,
             "fields": {
                 "question": 10000,
-                "description": "Best Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Obama. Talk about Obama. Talk about his legacy, talk about how we are uniting America, talk about how what our country needs now more than ever is pragmatism and stability.</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10002,
+            "pk": 10020,
             "fields": {
                 "question": 10000,
-                "description": "Good Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">This is the next step forward for our country. The glass ceiling is broken. Women and girls across the country are being not only inspired, but empowered.</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10003,
+            "pk": 10030,
             "fields": {
                 "question": 10000,
-                "description": "Okay Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">The world is a dangerous place. Russian imperial ambitions. Chinese ascendancy. North Korea’s missile tests. The country needs a strong leader on foreign policy, needs me, and I’ll make that loud and clear.</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10004,
+            "pk": 10040,
             "fields": {
                 "question": 10000,
-                "description": "Bad Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Let’s face it, the left despises me. Throw them a bone, or ten. We will expand healthcare. We will work on student loan debt. I will be the most progressive president in history. Then they can’t say anything.</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10101,
+            "pk": 10110,
             "fields": {
                 "question": 10100,
-                "description": "Best Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">I don’t want to get into a slap fight with Congress just yet. Let’s cut a deal. He can have some ‘input’ on a cabinet nominee or two, in return for confirming a re-nominated Garland.</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10102,
+            "pk": 10120,
             "fields": {
                 "question": 10100,
-                "description": "Good Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">We’re done playing games with McConnell. No more deals, we’re going Nuclear to push Garland. His cooperation isn’t necessary.</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10103,
+            "pk": 10130,
             "fields": {
                 "question": 10100,
-                "description": "Okay Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Look, we’re gonna appoint somebody, but why go with a boring choice like Garland? Let’s really make a mark, we’ll nominate Sri Srinivasan for the seat.</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10104,
+            "pk": 10140,
             "fields": {
                 "question": 10100,
-                "description": "Bad Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Just let it go, I don’t want to make too big of a splash. Let’s wait a bit to build up political momentum.</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10201,
+            "pk": 10210,
             "fields": {
                 "question": 10200,
-                "description": "Best Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Best Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10202,
+            "pk": 10220,
             "fields": {
                 "question": 10200,
-                "description": "Good Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Good Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10203,
+            "pk": 10230,
             "fields": {
                 "question": 10200,
-                "description": "Okay Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Okay Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10204,
+            "pk": 10240,
             "fields": {
                 "question": 10200,
-                "description": "Bad Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Bad Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10301,
+            "pk": 10310,
             "fields": {
                 "question": 10300,
-                "description": "Best Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Best Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10302,
+            "pk": 10320,
             "fields": {
                 "question": 10300,
-                "description": "Good Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Good Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10303,
+            "pk": 10330,
             "fields": {
                 "question": 10300,
-                "description": "Okay Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Okay Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10304,
+            "pk": 10340,
             "fields": {
                 "question": 10300,
-                "description": "Bad Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Bad Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10401,
+            "pk": 10410,
             "fields": {
                 "question": 10400,
-                "description": "Best Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Best Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10402,
+            "pk": 10420,
             "fields": {
                 "question": 10400,
-                "description": "Good Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Good Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10403,
+            "pk": 10430,
             "fields": {
                 "question": 10400,
-                "description": "Okay Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Okay Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10404,
+            "pk": 10440,
             "fields": {
                 "question": 10400,
-                "description": "Bad Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Bad Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10501,
+            "pk": 10510,
             "fields": {
                 "question": 10500,
-                "description": "Best Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Best Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10502,
+            "pk": 10520,
             "fields": {
                 "question": 10500,
-                "description": "Good Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Good Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10503,
+            "pk": 10530,
             "fields": {
                 "question": 10500,
-                "description": "Okay Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Okay Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10504,
+            "pk": 10540,
             "fields": {
                 "question": 10500,
-                "description": "Bad Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Bad Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10601,
+            "pk": 10610,
             "fields": {
                 "question": 10600,
-                "description": "Best Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Best Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10602,
+            "pk": 10620,
             "fields": {
                 "question": 10600,
-                "description": "Good Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Good Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10603,
+            "pk": 10630,
             "fields": {
                 "question": 10600,
-                "description": "Okay Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Okay Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10604,
+            "pk": 10640,
             "fields": {
                 "question": 10600,
-                "description": "Bad Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Bad Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10701,
+            "pk": 10710,
             "fields": {
                 "question": 10700,
-                "description": "Best Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Best Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10702,
+            "pk": 10720,
             "fields": {
                 "question": 10700,
-                "description": "Good Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Good Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10703,
+            "pk": 10730,
             "fields": {
                 "question": 10700,
-                "description": "Okay Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Okay Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10704,
+            "pk": 10740,
             "fields": {
                 "question": 10700,
-                "description": "Bad Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Bad Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10801,
+            "pk": 10810,
             "fields": {
                 "question": 10800,
-                "description": "Best Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Best Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10802,
+            "pk": 10820,
             "fields": {
                 "question": 10800,
-                "description": "Good Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Good Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10803,
+            "pk": 10830,
             "fields": {
                 "question": 10800,
-                "description": "Okay Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Okay Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10804,
+            "pk": 10840,
             "fields": {
                 "question": 10800,
-                "description": "Bad Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Bad Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10901,
+            "pk": 10910,
             "fields": {
                 "question": 10900,
-                "description": "Best Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Best Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10902,
+            "pk": 10920,
             "fields": {
                 "question": 10900,
-                "description": "Good Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Good Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10903,
+            "pk": 10930,
             "fields": {
                 "question": 10900,
-                "description": "Okay Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Okay Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 10904,
+            "pk": 10940,
             "fields": {
                 "question": 10900,
-                "description": "Bad Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Bad Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11001,
+            "pk": 11010,
             "fields": {
                 "question": 11000,
-                "description": "Best Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Best Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11002,
+            "pk": 11020,
             "fields": {
                 "question": 11000,
-                "description": "Good Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Good Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11003,
+            "pk": 11030,
             "fields": {
                 "question": 11000,
-                "description": "Okay Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Okay Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11004,
+            "pk": 11040,
             "fields": {
                 "question": 11000,
-                "description": "Bad Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Bad Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11101,
+            "pk": 11110,
             "fields": {
                 "question": 11100,
-                "description": "Best Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Best Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11102,
+            "pk": 11120,
             "fields": {
                 "question": 11100,
-                "description": "Good Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Good Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11103,
+            "pk": 11130,
             "fields": {
                 "question": 11100,
-                "description": "Okay Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Okay Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11104,
+            "pk": 11140,
             "fields": {
                 "question": 11100,
-                "description": "Bad Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Bad Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11201,
+            "pk": 11210,
             "fields": {
                 "question": 11200,
-                "description": "Best Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Best Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11202,
+            "pk": 11220,
             "fields": {
                 "question": 11200,
-                "description": "Good Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Good Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11203,
+            "pk": 11230,
             "fields": {
                 "question": 11200,
-                "description": "Okay Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Okay Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11204,
+            "pk": 11240,
             "fields": {
                 "question": 11200,
-                "description": "Bad Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Bad Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11301,
+            "pk": 11310,
             "fields": {
                 "question": 11300,
-                "description": "Best Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Best Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11302,
+            "pk": 11320,
             "fields": {
                 "question": 11300,
-                "description": "Good Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Good Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11303,
+            "pk": 11330,
             "fields": {
                 "question": 11300,
-                "description": "Okay Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Okay Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11304,
+            "pk": 11340,
             "fields": {
                 "question": 11300,
-                "description": "Bad Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Bad Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11401,
+            "pk": 11410,
             "fields": {
                 "question": 11400,
-                "description": "Best Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Best Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11402,
+            "pk": 11420,
             "fields": {
                 "question": 11400,
-                "description": "Good Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Good Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11403,
+            "pk": 11430,
             "fields": {
                 "question": 11400,
-                "description": "Okay Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Okay Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11404,
+            "pk": 11440,
             "fields": {
                 "question": 11400,
-                "description": "Bad Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Bad Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11501,
+            "pk": 11510,
             "fields": {
                 "question": 11500,
-                "description": "Best Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Best Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11502,
+            "pk": 11520,
             "fields": {
                 "question": 11500,
-                "description": "Good Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Good Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11503,
+            "pk": 11530,
             "fields": {
                 "question": 11500,
-                "description": "Okay Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Okay Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11504,
+            "pk": 11540,
             "fields": {
                 "question": 11500,
-                "description": "Bad Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Bad Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11601,
+            "pk": 11610,
             "fields": {
                 "question": 11600,
-                "description": "Best Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Best Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11602,
+            "pk": 11620,
             "fields": {
                 "question": 11600,
-                "description": "Good Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Good Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11603,
+            "pk": 11630,
             "fields": {
                 "question": 11600,
-                "description": "Okay Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Okay Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11604,
+            "pk": 11640,
             "fields": {
                 "question": 11600,
-                "description": "Bad Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Bad Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11701,
+            "pk": 11710,
             "fields": {
                 "question": 11700,
-                "description": "Best Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Best Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11702,
+            "pk": 11720,
             "fields": {
                 "question": 11700,
-                "description": "Good Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Good Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11703,
+            "pk": 11730,
             "fields": {
                 "question": 11700,
-                "description": "Okay Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Okay Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11704,
+            "pk": 11740,
             "fields": {
                 "question": 11700,
-                "description": "Bad Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Bad Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11801,
+            "pk": 11810,
             "fields": {
                 "question": 11800,
-                "description": "Best Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Best Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11802,
+            "pk": 11820,
             "fields": {
                 "question": 11800,
-                "description": "Good Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Good Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11803,
+            "pk": 11830,
             "fields": {
                 "question": 11800,
-                "description": "Okay Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Okay Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11804,
+            "pk": 11840,
             "fields": {
                 "question": 11800,
-                "description": "Bad Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Bad Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11901,
+            "pk": 11910,
             "fields": {
                 "question": 11900,
-                "description": "Best Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Best Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11902,
+            "pk": 11920,
             "fields": {
                 "question": 11900,
-                "description": "Good Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Good Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11903,
+            "pk": 11930,
             "fields": {
                 "question": 11900,
-                "description": "Okay Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Okay Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 11904,
+            "pk": 11940,
             "fields": {
                 "question": 11900,
-                "description": "Bad Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Bad Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12001,
+            "pk": 12010,
             "fields": {
                 "question": 12000,
-                "description": "Best Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Best Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12002,
+            "pk": 12020,
             "fields": {
                 "question": 12000,
-                "description": "Good Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Good Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12003,
+            "pk": 12030,
             "fields": {
                 "question": 12000,
-                "description": "Okay Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Okay Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12004,
+            "pk": 12040,
             "fields": {
                 "question": 12000,
-                "description": "Bad Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Bad Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12101,
+            "pk": 12110,
             "fields": {
                 "question": 12100,
-                "description": "Best Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Best Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12102,
+            "pk": 12120,
             "fields": {
                 "question": 12100,
-                "description": "Good Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Good Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12103,
+            "pk": 12130,
             "fields": {
                 "question": 12100,
-                "description": "Okay Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Okay Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12104,
+            "pk": 12140,
             "fields": {
                 "question": 12100,
-                "description": "Bad Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Bad Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12201,
+            "pk": 12210,
             "fields": {
                 "question": 12200,
-                "description": "Best Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Best Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12202,
+            "pk": 12220,
             "fields": {
                 "question": 12200,
-                "description": "Good Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Good Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12203,
+            "pk": 12230,
             "fields": {
                 "question": 12200,
-                "description": "Okay Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Okay Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12204,
+            "pk": 12240,
             "fields": {
                 "question": 12200,
-                "description": "Bad Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Bad Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12301,
+            "pk": 12310,
             "fields": {
                 "question": 12300,
-                "description": "Best Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Best Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12302,
+            "pk": 12320,
             "fields": {
                 "question": 12300,
-                "description": "Good Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Good Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12303,
+            "pk": 12330,
             "fields": {
                 "question": 12300,
-                "description": "Okay Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Okay Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12304,
+            "pk": 12340,
             "fields": {
                 "question": 12300,
-                "description": "Bad Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Bad Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12401,
+            "pk": 12410,
             "fields": {
                 "question": 12400,
-                "description": "Best Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Best Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12402,
+            "pk": 12420,
             "fields": {
                 "question": 12400,
-                "description": "Good Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Good Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12403,
+            "pk": 12430,
             "fields": {
                 "question": 12400,
-                "description": "Okay Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Okay Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12404,
+            "pk": 12440,
             "fields": {
                 "question": 12400,
-                "description": "Bad Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Bad Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12501,
+            "pk": 12510,
             "fields": {
                 "question": 12500,
-                "description": "Best Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Best Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12502,
+            "pk": 12520,
             "fields": {
                 "question": 12500,
-                "description": "Good Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Good Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12503,
+            "pk": 12530,
             "fields": {
                 "question": 12500,
-                "description": "Okay Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Okay Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12504,
+            "pk": 12540,
             "fields": {
                 "question": 12500,
-                "description": "Bad Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Bad Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12601,
+            "pk": 12610,
             "fields": {
                 "question": 12600,
-                "description": "Best Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Best Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12602,
+            "pk": 12620,
             "fields": {
                 "question": 12600,
-                "description": "Good Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Good Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12603,
+            "pk": 12630,
             "fields": {
                 "question": 12600,
-                "description": "Okay Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Okay Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12604,
+            "pk": 12640,
             "fields": {
                 "question": 12600,
-                "description": "Bad Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Bad Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12701,
+            "pk": 12710,
             "fields": {
                 "question": 12700,
-                "description": "Best Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Best Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12702,
+            "pk": 12720,
             "fields": {
                 "question": 12700,
-                "description": "Good Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Good Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12703,
+            "pk": 12730,
             "fields": {
                 "question": 12700,
-                "description": "Okay Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Okay Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12704,
+            "pk": 12740,
             "fields": {
                 "question": 12700,
-                "description": "Bad Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Bad Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12801,
+            "pk": 12810,
             "fields": {
                 "question": 12800,
-                "description": "Best Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Best Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12802,
+            "pk": 12820,
             "fields": {
                 "question": 12800,
-                "description": "Good Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Good Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12803,
+            "pk": 12830,
             "fields": {
                 "question": 12800,
-                "description": "Okay Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Okay Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12804,
+            "pk": 12840,
             "fields": {
                 "question": 12800,
-                "description": "Bad Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Bad Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12901,
+            "pk": 12910,
             "fields": {
                 "question": 12900,
-                "description": "Best Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Best Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12902,
+            "pk": 12920,
             "fields": {
                 "question": 12900,
-                "description": "Good Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Good Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12903,
+            "pk": 12930,
             "fields": {
                 "question": 12900,
-                "description": "Okay Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Okay Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 12904,
+            "pk": 12940,
             "fields": {
                 "question": 12900,
-                "description": "Bad Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Bad Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 13001,
+            "pk": 13010,
             "fields": {
                 "question": 13000,
-                "description": "Best Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Best Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 13002,
+            "pk": 13020,
             "fields": {
                 "question": 13000,
-                "description": "Good Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Good Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 13003,
+            "pk": 13030,
             "fields": {
                 "question": 13000,
-                "description": "Okay Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Okay Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 13004,
+            "pk": 13040,
             "fields": {
                 "question": 13000,
-                "description": "Bad Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Bad Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 13101,
+            "pk": 13110,
             "fields": {
                 "question": 13100,
-                "description": "Best Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Best Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 13102,
+            "pk": 13120,
             "fields": {
                 "question": 13100,
-                "description": "Good Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Good Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 13103,
+            "pk": 13130,
             "fields": {
                 "question": 13100,
-                "description": "Okay Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Okay Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 13104,
+            "pk": 13140,
             "fields": {
                 "question": 13100,
-                "description": "Bad Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Bad Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 13201,
+            "pk": 13210,
             "fields": {
                 "question": 13200,
-                "description": "Best Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Best Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 13202,
+            "pk": 13220,
             "fields": {
                 "question": 13200,
-                "description": "Good Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Good Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 13203,
+            "pk": 13230,
             "fields": {
                 "question": 13200,
-                "description": "Okay Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Okay Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 13204,
+            "pk": 13240,
             "fields": {
                 "question": 13200,
-                "description": "Bad Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Bad Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 13301,
+            "pk": 13310,
             "fields": {
                 "question": 13300,
-                "description": "Best Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Best Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 13302,
+            "pk": 13320,
             "fields": {
                 "question": 13300,
-                "description": "Good Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Good Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 13303,
+            "pk": 13330,
             "fields": {
                 "question": 13300,
-                "description": "Okay Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Okay Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 13304,
+            "pk": 13340,
             "fields": {
                 "question": 13300,
-                "description": "Bad Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Bad Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 13401,
+            "pk": 13410,
             "fields": {
                 "question": 13400,
-                "description": "Best Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Best Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 13402,
+            "pk": 13420,
             "fields": {
                 "question": 13400,
-                "description": "Good Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Good Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 13403,
+            "pk": 13430,
             "fields": {
                 "question": 13400,
-                "description": "Okay Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Okay Answer</span>"
             }
         },
         {
             "model": "campaign_trail.answer",
-            "pk": 13404,
+            "pk": 13440,
             "fields": {
                 "question": 13400,
-                "description": "Bad Answer"
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Bad Answer</span>"
             }
         }
     ]
@@ -6901,1408 +6901,7 @@
         }
     ]
     
-    campaignTrail_temp.answer_score_global_json = [
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20708,
-            "fields": {
-                "answer": 20699,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.05
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20709,
-            "fields": {
-                "answer": 20700,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20710,
-            "fields": {
-                "answer": 20701,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.005
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20711,
-            "fields": {
-                "answer": 20702,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": -0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20715,
-            "fields": {
-                "answer": 20713,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.05
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20718,
-            "fields": {
-                "answer": 20716,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20721,
-            "fields": {
-                "answer": 20719,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.005
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20724,
-            "fields": {
-                "answer": 20722,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": -0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20728,
-            "fields": {
-                "answer": 20726,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.05
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20731,
-            "fields": {
-                "answer": 20729,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20734,
-            "fields": {
-                "answer": 20732,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.005
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20737,
-            "fields": {
-                "answer": 20735,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": -0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20741,
-            "fields": {
-                "answer": 20739,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.05
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20744,
-            "fields": {
-                "answer": 20742,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20747,
-            "fields": {
-                "answer": 20745,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.005
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20750,
-            "fields": {
-                "answer": 20748,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": -0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20754,
-            "fields": {
-                "answer": 20752,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.05
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20757,
-            "fields": {
-                "answer": 20755,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20760,
-            "fields": {
-                "answer": 20758,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.005
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20763,
-            "fields": {
-                "answer": 20761,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": -0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20767,
-            "fields": {
-                "answer": 20765,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.05
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20770,
-            "fields": {
-                "answer": 20768,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20773,
-            "fields": {
-                "answer": 20771,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.005
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20776,
-            "fields": {
-                "answer": 20774,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": -0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20780,
-            "fields": {
-                "answer": 20778,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.05
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20783,
-            "fields": {
-                "answer": 20781,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20786,
-            "fields": {
-                "answer": 20784,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.005
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20789,
-            "fields": {
-                "answer": 20787,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": -0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20793,
-            "fields": {
-                "answer": 20791,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.05
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20796,
-            "fields": {
-                "answer": 20794,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20799,
-            "fields": {
-                "answer": 20797,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.005
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20802,
-            "fields": {
-                "answer": 20800,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": -0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20806,
-            "fields": {
-                "answer": 20804,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.05
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20809,
-            "fields": {
-                "answer": 20807,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20812,
-            "fields": {
-                "answer": 20810,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.005
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20815,
-            "fields": {
-                "answer": 20813,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": -0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20819,
-            "fields": {
-                "answer": 20817,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.05
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20822,
-            "fields": {
-                "answer": 20820,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20825,
-            "fields": {
-                "answer": 20823,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.005
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20828,
-            "fields": {
-                "answer": 20826,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": -0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20832,
-            "fields": {
-                "answer": 20830,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.05
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20835,
-            "fields": {
-                "answer": 20833,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20838,
-            "fields": {
-                "answer": 20836,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.005
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20841,
-            "fields": {
-                "answer": 20839,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": -0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20845,
-            "fields": {
-                "answer": 20843,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.05
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20848,
-            "fields": {
-                "answer": 20846,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20851,
-            "fields": {
-                "answer": 20849,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.005
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20854,
-            "fields": {
-                "answer": 20852,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": -0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20858,
-            "fields": {
-                "answer": 20856,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.05
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20861,
-            "fields": {
-                "answer": 20859,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20864,
-            "fields": {
-                "answer": 20862,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.005
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20867,
-            "fields": {
-                "answer": 20865,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": -0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20871,
-            "fields": {
-                "answer": 20869,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.05
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20874,
-            "fields": {
-                "answer": 20872,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20877,
-            "fields": {
-                "answer": 20875,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.005
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20880,
-            "fields": {
-                "answer": 20878,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": -0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20884,
-            "fields": {
-                "answer": 20882,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.05
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20887,
-            "fields": {
-                "answer": 20885,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20890,
-            "fields": {
-                "answer": 20888,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.005
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20893,
-            "fields": {
-                "answer": 20891,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": -0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20897,
-            "fields": {
-                "answer": 20895,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.05
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20900,
-            "fields": {
-                "answer": 20898,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20903,
-            "fields": {
-                "answer": 20901,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.005
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20906,
-            "fields": {
-                "answer": 20904,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": -0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20910,
-            "fields": {
-                "answer": 20908,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.05
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20913,
-            "fields": {
-                "answer": 20911,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20916,
-            "fields": {
-                "answer": 20914,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.005
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20919,
-            "fields": {
-                "answer": 20917,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": -0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20923,
-            "fields": {
-                "answer": 20921,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.05
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20926,
-            "fields": {
-                "answer": 20924,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20929,
-            "fields": {
-                "answer": 20927,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.005
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20932,
-            "fields": {
-                "answer": 20930,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": -0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20936,
-            "fields": {
-                "answer": 20934,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.05
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20939,
-            "fields": {
-                "answer": 20937,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20942,
-            "fields": {
-                "answer": 20940,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.005
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20945,
-            "fields": {
-                "answer": 20943,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": -0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20949,
-            "fields": {
-                "answer": 20947,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.05
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20952,
-            "fields": {
-                "answer": 20950,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20955,
-            "fields": {
-                "answer": 20953,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.005
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20958,
-            "fields": {
-                "answer": 20956,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": -0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20962,
-            "fields": {
-                "answer": 20960,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.05
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20965,
-            "fields": {
-                "answer": 20963,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20968,
-            "fields": {
-                "answer": 20966,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.005
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20971,
-            "fields": {
-                "answer": 20969,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": -0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20975,
-            "fields": {
-                "answer": 20973,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.05
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20978,
-            "fields": {
-                "answer": 20976,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20981,
-            "fields": {
-                "answer": 20979,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.005
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20984,
-            "fields": {
-                "answer": 20982,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": -0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20988,
-            "fields": {
-                "answer": 20986,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.05
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20991,
-            "fields": {
-                "answer": 20989,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20994,
-            "fields": {
-                "answer": 20992,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.005
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 20997,
-            "fields": {
-                "answer": 20995,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": -0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21001,
-            "fields": {
-                "answer": 20999,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.05
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21004,
-            "fields": {
-                "answer": 21002,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21007,
-            "fields": {
-                "answer": 21005,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.005
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21010,
-            "fields": {
-                "answer": 21008,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": -0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21014,
-            "fields": {
-                "answer": 21012,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.05
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21017,
-            "fields": {
-                "answer": 21015,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21020,
-            "fields": {
-                "answer": 21018,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.005
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21023,
-            "fields": {
-                "answer": 21021,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": -0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21027,
-            "fields": {
-                "answer": 21025,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.05
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21030,
-            "fields": {
-                "answer": 21028,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21033,
-            "fields": {
-                "answer": 21031,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.005
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21036,
-            "fields": {
-                "answer": 21034,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": -0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21040,
-            "fields": {
-                "answer": 21038,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.05
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21043,
-            "fields": {
-                "answer": 21041,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21046,
-            "fields": {
-                "answer": 21044,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.005
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21049,
-            "fields": {
-                "answer": 21047,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": -0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21053,
-            "fields": {
-                "answer": 21051,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.05
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21056,
-            "fields": {
-                "answer": 21054,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21059,
-            "fields": {
-                "answer": 21057,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.005
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21062,
-            "fields": {
-                "answer": 21060,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": -0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21066,
-            "fields": {
-                "answer": 21064,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.05
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21069,
-            "fields": {
-                "answer": 21067,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21072,
-            "fields": {
-                "answer": 21070,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.005
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21075,
-            "fields": {
-                "answer": 21073,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": -0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21079,
-            "fields": {
-                "answer": 21077,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.05
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21082,
-            "fields": {
-                "answer": 21080,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21085,
-            "fields": {
-                "answer": 21083,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.005
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21088,
-            "fields": {
-                "answer": 21086,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": -0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21092,
-            "fields": {
-                "answer": 21090,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.05
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21095,
-            "fields": {
-                "answer": 21093,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21098,
-            "fields": {
-                "answer": 21096,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.005
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21101,
-            "fields": {
-                "answer": 21099,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": -0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21105,
-            "fields": {
-                "answer": 21103,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.05
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21108,
-            "fields": {
-                "answer": 21106,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21111,
-            "fields": {
-                "answer": 21109,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.005
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21114,
-            "fields": {
-                "answer": 21112,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": -0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21118,
-            "fields": {
-                "answer": 21116,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.05
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21121,
-            "fields": {
-                "answer": 21119,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21124,
-            "fields": {
-                "answer": 21122,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.005
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21127,
-            "fields": {
-                "answer": 21125,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": -0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21131,
-            "fields": {
-                "answer": 21129,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.05
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21134,
-            "fields": {
-                "answer": 21132,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21137,
-            "fields": {
-                "answer": 21135,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.005
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21140,
-            "fields": {
-                "answer": 21138,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": -0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21144,
-            "fields": {
-                "answer": 21142,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.05
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21147,
-            "fields": {
-                "answer": 21145,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.01
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21150,
-            "fields": {
-                "answer": 21148,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": 0.005
-            }
-        },
-        {
-            "model": "campaign_trail.answer_score_global",
-            "pk": 21153,
-            "fields": {
-                "answer": 21151,
-                "candidate": 200,
-                "affected_candidate": 200,
-                "global_multiplier": -0.01
-            }
-        }
-    ]
+    campaignTrail_temp.answer_score_global_json = []
     
     campaignTrail_temp.answer_score_issue_json = []
     
@@ -8311,1270 +6910,1271 @@
     campaignTrail_temp.answer_feedback_json = [
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20704,
+            "pk": 10011,
             "fields": {
-                "answer": 20702,
+                "answer": 10010,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20705,
+            "pk": 10021,
             "fields": {
-                "answer": 20701,
+                "answer": 10020,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Later that day in the Oval Office, you catch some footage of a protest. A young woman wearing a “Bernie or Bust” t-shirt is being interviewed, angrily calling you a warmonger, a globalist, a sellout, and a bitch, in that order. You turn it off.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20706,
+            "pk": 10031,
             "fields": {
-                "answer": 20700,
+                "answer": 10030,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Tucker Carlson screeches on FOX about “liberal hawks.” Cornel West calls you “Kissinger in a pantsuit”. You don’t care. You’ll do whatever is necessary.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20707,
+            "pk": 10041,
             "fields": {
-                "answer": 20699,
+                "answer": 10040,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">The crowd cheers at your vague platitudes about progress and change. Later that day, Senator Sanders gives an noncommittal answer as to whether or not he will support your legislative agenda. You sneer at the TV and turn it off.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20714,
+            "pk": 10111,
             "fields": {
-                "answer": 20713,
+                "answer": 10110,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20717,
+            "pk": 10121,
             "fields": {
-                "answer": 20716,
+                "answer": 10120,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20720,
+            "pk": 10131,
             "fields": {
-                "answer": 20719,
+                "answer": 10130,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20723,
+            "pk": 10141,
             "fields": {
-                "answer": 20722,
+                "answer": 10140,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20727,
+            "pk": 10211,
             "fields": {
-                "answer": 20726,
+                "answer": 10210,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20730,
+            "pk": 10221,
             "fields": {
-                "answer": 20729,
+                "answer": 10220,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20733,
+            "pk": 10231,
             "fields": {
-                "answer": 20732,
+                "answer": 10230,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20736,
+            "pk": 10241,
             "fields": {
-                "answer": 20735,
+                "answer": 10240,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20740,
+            "pk": 10311,
             "fields": {
-                "answer": 20739,
+                "answer": 10310,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20743,
+            "pk": 10321,
             "fields": {
-                "answer": 20742,
+                "answer": 10320,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20746,
+            "pk": 10331,
             "fields": {
-                "answer": 20745,
+                "answer": 10330,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20749,
+            "pk": 10341,
             "fields": {
-                "answer": 20748,
+                "answer": 10340,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20753,
+            "pk": 10411,
             "fields": {
-                "answer": 20752,
+                "answer": 10410,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20756,
+            "pk": 10421,
             "fields": {
-                "answer": 20755,
+                "answer": 10420,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20759,
+            "pk": 10431,
             "fields": {
-                "answer": 20758,
+                "answer": 10430,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20762,
+            "pk": 10441,
             "fields": {
-                "answer": 20761,
+                "answer": 10440,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20766,
+            "pk": 10511,
             "fields": {
-                "answer": 20765,
+                "answer": 10510,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20769,
+            "pk": 10521,
             "fields": {
-                "answer": 20768,
+                "answer": 10520,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20772,
+            "pk": 10531,
             "fields": {
-                "answer": 20771,
+                "answer": 10530,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20775,
+            "pk": 10541,
             "fields": {
-                "answer": 20774,
+                "answer": 10540,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20779,
+            "pk": 10611,
             "fields": {
-                "answer": 20778,
+                "answer": 10610,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20782,
+            "pk": 10621,
             "fields": {
-                "answer": 20781,
+                "answer": 10620,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20785,
+            "pk": 10631,
             "fields": {
-                "answer": 20784,
+                "answer": 10630,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20788,
+            "pk": 10641,
             "fields": {
-                "answer": 20787,
+                "answer": 10640,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20792,
+            "pk": 10711,
             "fields": {
-                "answer": 20791,
+                "answer": 10710,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20795,
+            "pk": 10721,
             "fields": {
-                "answer": 20794,
+                "answer": 10720,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20798,
+            "pk": 10731,
             "fields": {
-                "answer": 20797,
+                "answer": 10730,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20801,
+            "pk": 10741,
             "fields": {
-                "answer": 20800,
+                "answer": 10740,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20805,
+            "pk": 10811,
             "fields": {
-                "answer": 20804,
+                "answer": 10810,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20808,
+            "pk": 10821,
             "fields": {
-                "answer": 20807,
+                "answer": 10820,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20811,
+            "pk": 10831,
             "fields": {
-                "answer": 20810,
+                "answer": 10830,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20814,
+            "pk": 10841,
             "fields": {
-                "answer": 20813,
+                "answer": 10840,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20818,
+            "pk": 10911,
             "fields": {
-                "answer": 20817,
+                "answer": 10910,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20821,
+            "pk": 10921,
             "fields": {
-                "answer": 20820,
+                "answer": 10920,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20824,
+            "pk": 10931,
             "fields": {
-                "answer": 20823,
+                "answer": 10930,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20827,
+            "pk": 10941,
             "fields": {
-                "answer": 20826,
+                "answer": 10940,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20831,
+            "pk": 11011,
             "fields": {
-                "answer": 20830,
+                "answer": 11010,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20834,
+            "pk": 11021,
             "fields": {
-                "answer": 20833,
+                "answer": 11020,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20837,
+            "pk": 11031,
             "fields": {
-                "answer": 20836,
+                "answer": 11030,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20840,
+            "pk": 11041,
             "fields": {
-                "answer": 20839,
+                "answer": 11040,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20844,
+            "pk": 11111,
             "fields": {
-                "answer": 20843,
+                "answer": 11110,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20847,
+            "pk": 11121,
             "fields": {
-                "answer": 20846,
+                "answer": 11120,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20850,
+            "pk": 11131,
             "fields": {
-                "answer": 20849,
+                "answer": 11130,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20853,
+            "pk": 11141,
             "fields": {
-                "answer": 20852,
+                "answer": 11140,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20857,
+            "pk": 11211,
             "fields": {
-                "answer": 20856,
+                "answer": 11210,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20860,
+            "pk": 11221,
             "fields": {
-                "answer": 20859,
+                "answer": 11220,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20863,
+            "pk": 11231,
             "fields": {
-                "answer": 20862,
+                "answer": 11230,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20866,
+            "pk": 11241,
             "fields": {
-                "answer": 20865,
+                "answer": 11240,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20870,
+            "pk": 11311,
             "fields": {
-                "answer": 20869,
+                "answer": 11310,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20873,
+            "pk": 11321,
             "fields": {
-                "answer": 20872,
+                "answer": 11320,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20876,
+            "pk": 11331,
             "fields": {
-                "answer": 20875,
+                "answer": 11330,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20879,
+            "pk": 11341,
             "fields": {
-                "answer": 20878,
+                "answer": 11340,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20883,
+            "pk": 11411,
             "fields": {
-                "answer": 20882,
+                "answer": 11410,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20886,
+            "pk": 11421,
             "fields": {
-                "answer": 20885,
+                "answer": 11420,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20889,
+            "pk": 11431,
             "fields": {
-                "answer": 20888,
+                "answer": 11430,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20892,
+            "pk": 11441,
             "fields": {
-                "answer": 20891,
+                "answer": 11440,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20896,
+            "pk": 11511,
             "fields": {
-                "answer": 20895,
+                "answer": 11510,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20899,
+            "pk": 11521,
             "fields": {
-                "answer": 20898,
+                "answer": 11520,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20902,
+            "pk": 11531,
             "fields": {
-                "answer": 20901,
+                "answer": 11530,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20905,
+            "pk": 11541,
             "fields": {
-                "answer": 20904,
+                "answer": 11540,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20909,
+            "pk": 11611,
             "fields": {
-                "answer": 20908,
+                "answer": 11610,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20912,
+            "pk": 11621,
             "fields": {
-                "answer": 20911,
+                "answer": 11620,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20915,
+            "pk": 11631,
             "fields": {
-                "answer": 20914,
+                "answer": 11630,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20918,
+            "pk": 11641,
             "fields": {
-                "answer": 20917,
+                "answer": 11640,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20922,
+            "pk": 11711,
             "fields": {
-                "answer": 20921,
+                "answer": 11710,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20925,
+            "pk": 11721,
             "fields": {
-                "answer": 20924,
+                "answer": 11720,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20928,
+            "pk": 11731,
             "fields": {
-                "answer": 20927,
+                "answer": 11730,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20931,
+            "pk": 11741,
             "fields": {
-                "answer": 20930,
+                "answer": 11740,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20935,
+            "pk": 11811,
             "fields": {
-                "answer": 20934,
+                "answer": 11810,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20938,
+            "pk": 11821,
             "fields": {
-                "answer": 20937,
+                "answer": 11820,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20941,
+            "pk": 11831,
             "fields": {
-                "answer": 20940,
+                "answer": 11830,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20944,
+            "pk": 11841,
             "fields": {
-                "answer": 20943,
+                "answer": 11840,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20948,
+            "pk": 11911,
             "fields": {
-                "answer": 20947,
+                "answer": 11910,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20951,
+            "pk": 11921,
             "fields": {
-                "answer": 20950,
+                "answer": 11920,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20954,
+            "pk": 11931,
             "fields": {
-                "answer": 20953,
+                "answer": 11930,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20957,
+            "pk": 11941,
             "fields": {
-                "answer": 20956,
+                "answer": 11940,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20961,
+            "pk": 12011,
             "fields": {
-                "answer": 20960,
+                "answer": 12010,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20964,
+            "pk": 12021,
             "fields": {
-                "answer": 20963,
+                "answer": 12020,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20967,
+            "pk": 12031,
             "fields": {
-                "answer": 20966,
+                "answer": 12030,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20970,
+            "pk": 12041,
             "fields": {
-                "answer": 20969,
+                "answer": 12040,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20974,
+            "pk": 12111,
             "fields": {
-                "answer": 20973,
+                "answer": 12110,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20977,
+            "pk": 12121,
             "fields": {
-                "answer": 20976,
+                "answer": 12120,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20980,
+            "pk": 12131,
             "fields": {
-                "answer": 20979,
+                "answer": 12130,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20983,
+            "pk": 12141,
             "fields": {
-                "answer": 20982,
+                "answer": 12140,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20987,
+            "pk": 12211,
             "fields": {
-                "answer": 20986,
+                "answer": 12210,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20990,
+            "pk": 12221,
             "fields": {
-                "answer": 20989,
+                "answer": 12220,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20993,
+            "pk": 12231,
             "fields": {
-                "answer": 20992,
+                "answer": 12230,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 20996,
+            "pk": 12241,
             "fields": {
-                "answer": 20995,
+                "answer": 12240,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21000,
+            "pk": 12311,
             "fields": {
-                "answer": 20999,
+                "answer": 12310,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21003,
+            "pk": 12321,
             "fields": {
-                "answer": 21002,
+                "answer": 12320,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21006,
+            "pk": 12331,
             "fields": {
-                "answer": 21005,
+                "answer": 12330,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21009,
+            "pk": 12341,
             "fields": {
-                "answer": 21008,
+                "answer": 12340,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21013,
+            "pk": 12411,
             "fields": {
-                "answer": 21012,
+                "answer": 12410,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21016,
+            "pk": 12421,
             "fields": {
-                "answer": 21015,
+                "answer": 12420,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21019,
+            "pk": 12431,
             "fields": {
-                "answer": 21018,
+                "answer": 12430,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21022,
+            "pk": 12441,
             "fields": {
-                "answer": 21021,
+                "answer": 12440,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21026,
+            "pk": 12511,
             "fields": {
-                "answer": 21025,
+                "answer": 12510,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21029,
+            "pk": 12521,
             "fields": {
-                "answer": 21028,
+                "answer": 12520,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21032,
+            "pk": 12531,
             "fields": {
-                "answer": 21031,
+                "answer": 12530,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21035,
+            "pk": 12541,
             "fields": {
-                "answer": 21034,
+                "answer": 12540,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21039,
+            "pk": 12611,
             "fields": {
-                "answer": 21038,
+                "answer": 12610,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21042,
+            "pk": 12621,
             "fields": {
-                "answer": 21041,
+                "answer": 12620,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21045,
+            "pk": 12631,
             "fields": {
-                "answer": 21044,
+                "answer": 12630,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21048,
+            "pk": 12641,
             "fields": {
-                "answer": 21047,
+                "answer": 12640,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21052,
+            "pk": 12711,
             "fields": {
-                "answer": 21051,
+                "answer": 12710,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21055,
+            "pk": 12721,
             "fields": {
-                "answer": 21054,
+                "answer": 12720,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21058,
+            "pk": 12731,
             "fields": {
-                "answer": 21057,
+                "answer": 12730,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21061,
+            "pk": 12741,
             "fields": {
-                "answer": 21060,
+                "answer": 12740,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21065,
+            "pk": 12811,
             "fields": {
-                "answer": 21064,
+                "answer": 12810,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21068,
+            "pk": 12821,
             "fields": {
-                "answer": 21067,
+                "answer": 12820,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21071,
+            "pk": 12831,
             "fields": {
-                "answer": 21070,
+                "answer": 12830,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21074,
+            "pk": 12841,
             "fields": {
-                "answer": 21073,
+                "answer": 12840,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21078,
+            "pk": 12911,
             "fields": {
-                "answer": 21077,
+                "answer": 12910,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21081,
+            "pk": 12921,
             "fields": {
-                "answer": 21080,
+                "answer": 12920,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21084,
+            "pk": 12931,
             "fields": {
-                "answer": 21083,
+                "answer": 12930,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21087,
+            "pk": 12941,
             "fields": {
-                "answer": 21086,
+                "answer": 12940,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21091,
+            "pk": 13011,
             "fields": {
-                "answer": 21090,
+                "answer": 13010,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21094,
+            "pk": 13021,
             "fields": {
-                "answer": 21093,
+                "answer": 13020,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21097,
+            "pk": 13031,
             "fields": {
-                "answer": 21096,
+                "answer": 13030,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21100,
+            "pk": 13041,
             "fields": {
-                "answer": 21099,
+                "answer": 13040,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21104,
+            "pk": 13111,
             "fields": {
-                "answer": 21103,
+                "answer": 13110,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21107,
+            "pk": 13121,
             "fields": {
-                "answer": 21106,
+                "answer": 13120,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21110,
+            "pk": 13131,
             "fields": {
-                "answer": 21109,
+                "answer": 13130,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21113,
+            "pk": 13141,
             "fields": {
-                "answer": 21112,
+                "answer": 13140,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21117,
+            "pk": 13211,
             "fields": {
-                "answer": 21116,
+                "answer": 13210,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21120,
+            "pk": 13221,
             "fields": {
-                "answer": 21119,
+                "answer": 13220,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21123,
+            "pk": 13231,
             "fields": {
-                "answer": 21122,
+                "answer": 13230,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21126,
+            "pk": 13241,
             "fields": {
-                "answer": 21125,
+                "answer": 13240,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21130,
+            "pk": 13311,
             "fields": {
-                "answer": 21129,
+                "answer": 13310,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21133,
+            "pk": 13321,
             "fields": {
-                "answer": 21132,
+                "answer": 13320,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21136,
+            "pk": 13331,
             "fields": {
-                "answer": 21135,
+                "answer": 13330,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21139,
+            "pk": 13341,
             "fields": {
-                "answer": 21138,
+                "answer": 13340,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21143,
+            "pk": 13411,
             "fields": {
-                "answer": 21142,
+                "answer": 13410,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21146,
+            "pk": 13421,
             "fields": {
-                "answer": 21145,
+                "answer": 13420,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21149,
+            "pk": 13431,
             "fields": {
-                "answer": 21148,
+                "answer": 13430,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         },
         {
             "model": "campaign_trail.answer_feedback",
-            "pk": 21152,
+            "pk": 13441,
             "fields": {
-                "answer": 21151,
+                "answer": 13440,
                 "candidate": 200,
-                "answer_feedback": "put feedback here, don't forget to change candidate"
+                "answer_feedback": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">As you praise him, you look over at your predecessor. He sits polite, and his face is smiling but disinterested. You grimace slightly and try not to let the cameras see.</span>"
             }
         }
     ]
     
-    campaignTrail_temp.candidate_image_url = "https://i.imgur.com/gDYTCGr.png";
-    campaignTrail_temp.running_mate_image_url = "https://i.imgur.com/tiGEqZI.png";
-    campaignTrail_temp.candidate_last_name = "Clinton";
-    campaignTrail_temp.running_mate_last_name = "Kaine";
+campaignTrail_temp.candidate_image_url = "https://i.imgur.com/gDYTCGr.png";
+campaignTrail_temp.running_mate_image_url = "https://i.imgur.com/tiGEqZI.png";
+campaignTrail_temp.candidate_last_name = "Hillary";
+campaignTrail_temp.running_mate_last_name = "Kaine";
+    
     
     
     campaignTrail_temp.jet_data = [{
@@ -9590,19 +8190,67 @@
         "banner_data": {}
     }
     ]
+    
+    
+    
+var needed = 5
 
-//let forTest = 'campaignTrail_temp.questions_json = [
-  //      {
-      //      "model": "campaign_trail.question",
-    //        "pk": 10000,
-        //    "fields": {
-          //      "priority": 0,
-            //    "description": "Question Here",
-              //  "likelihood": 1
-//            }';
+e = campaignTrail_temp    
+e.cyoa = true
+e.multiple_endings = true;
 
-// let testData = JSON.parse(forTest);
 
-// testData.fields.description = "this works!";
+cyoAdventure = function(a) {
+    ans = campaignTrail_temp.player_answers[campaignTrail_temp.player_answers.length - 1]; 
 
-// return JSON.stringify(testData);
+    if(needed == 5) {
+        campaignTrail_temp.questions_json[1] = {
+            "model": "campaign_trail.question",
+            "pk": 10100,
+            "fields": {
+                "priority": 0,
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">These Republicans, they get a majority and the first thing they try is outlawing DACA. They want to deport all the undocumented minors, and whatever happens, you will get attacked for something.</span>",
+                "likelihood": 1
+            }
+        }
+
+        campaignTrail_temp.answers_json[4] = {
+            "model": "campaign_trail.answer",
+            "pk": 10110,
+            "fields": {
+                "question": 10100,
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Get Chuck and Nancy. We’re gonna show the American people we’re still ready to fight, and we’re gonna do it by stopping this thing dead in its tracks. Last thing we want is for Obama’s legacy to be blown up on my watch, and if not, we will veto it.</span>"
+            }
+        },
+        campaignTrail_temp.answers_json[5] = {
+            "model": "campaign_trail.answer",
+            "pk": 10120,
+            "fields": {
+                "question": 10100,
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">We will try and stop it, but we won’t veto it, try and rally the senate to get it below the filibuster level. If all fails, let it become law without my signature.</span>"
+            }
+        },
+        campaignTrail_temp.answers_json[6] = {
+            "model": "campaign_trail.answer",
+            "pk": 10130,
+            "fields": {
+                "question": 10100,
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Look, there’s no way we can actually stop this without losing more capital than we gain. Just focus on a deal. I don’t know, let’s just call up republican leadership to figure out how to minimize the fallout from this. Let any outcome become law without a signature.</span>"
+            }
+        },
+        campaignTrail_temp.answers_json[7] = {
+            "model": "campaign_trail.answer",
+            "pk": 10140,
+            "fields": {
+                "question": 101777777777700,
+                "description": "<span style= \"font-size: 94%; font-family:helvetica; margin:0px;\">Look, there’s no way we can actually stop this without losing more capital than we gain. Just focus on a deal. I don’t know, let’s just call up republican leadership to figure out how to minimize the fallout from this. Let any outcome become law without a signature.</span>"
+            }
+        }
+    }
+
+
+}
+
+
+
+
