@@ -6,7 +6,7 @@ campaignTrail_temp.election_json = [
         "pk": 20,
         "fields": {
             "year": 2016,
-            "display_year": "2020c",
+            "display_year": "Madam President",
             "summary": "<p style= \"font-size: 94%; font-family:helvetica; margin:5px;\">America has entered the 21st century down to the wire. It chose you over Trump, and liberalism over hate. Sadly, that is not the end of it. A radicalized GOP waits for the chance to take a cut of your conquests. Just one state away from winning, Trump gathers his strength, hoping for you to slip, and allow him to take your place.</p><p style= \"font-size: 94%; font-family:helvetica; margin:5px;\">Globally, all illusions of an ‘end of history’ are shattered. Emergent powers threaten to uproot Washington's dominance, and it seems as though violence is the order of the day.</p><b style= \"font-size: 94%; font-family:helvetica; margin:5px;\">For all the uncertainty, the pomp, and hatred, many want nothing more than to blame just one woman.</b>",
             "image_url": "https://raw.githubusercontent.com/StellR7/Hillary/main/clintonElectionSummary.jpg?token=GHSAT0AAAAAACXEU4DHXN4LPBNE64SAYWPQZW3PQAA",
             "winning_electoral_vote_number": 270,
