@@ -6,6 +6,8 @@ The code is split into two parts, a code 1, and a code 2, with the init file bei
 
 Currently, the code has been done by Github user StellR7, with writing done by a variety of discord users and 'The Campaign Trail' enthusiasts. 
 
-This code is not yet licensed in any fashion.
+This Mod is an exploration of what if Hillary Clinton, and Tim Kaine, became President and Vice President of the United States in 2016.
+
+The code and writing is not yet licensed in any fashion.
 
 You may use this code to your leisure!
