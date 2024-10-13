@@ -11,7 +11,7 @@ campaignTrail_temp.election_json = [
             "image_url": "https://i.imgur.com/HXD3M7D.jpeg",
             "winning_electoral_vote_number": 270,
             "advisor_url": "https://i.imgur.com/BI7DnsZ.png",
-            "recommended_reading": "<ul>\n<p><a href=https://www.chicagotribune.com/opinion/editorials/ct-edit-chicago-tribune-biden-endorsement-20200925-lnyxsb5qvrftnjjmj3rnzj33jy-story.html>Our Case For Joe Biden</a></p>\n<p><a href=https://nationalinterest.org/feature/case-trump-166808>The Case For Trump</a></p>\n<p><a href=https://www.npr.org/2020/11/18/935730100/how-biden-won-ramping-up-the-base-and-expanding-margins-in-the-suburbs>How Biden Won: Ramping Up The Base And Expanding Margins In The Suburbs</a></p>\n<p><a href=https://www.prospectmagazine.co.uk/politics/donald-trump-joe-biden-us-election-almost-win-votes-concede>Why Did Trump Almost Win?</a></p>\n<p><a href=https://www.hoover.org/research/no-evidence-voter-fraud-guide-statistical-claims-about-2020-election>No Evidence For Voter Fraud: A Guide To Statistical Claims About The 2020 Election</a></p>\n</ul>",
+            "recommended_reading": ``,
             "has_visits": 1,
             "no_electoral_majority_image": "../static/images/2012-no-majority.jpg"
         }
@@ -27,7 +27,18 @@ campaignTrail_temp.temp_election_list = [
     }
 ]
 
-campaignTrail_temp.credits = "the Madam President Team" // We will find a good name for the team
+campaignTrail_temp.credits = "<button onclick='credits()' style='background-color: #223b61;'><span style='color:#ff0000;'>T</span><span style='color:#ff4000;'>e</span><span style='color:#ffc400;'>a</span><span style='color:#00ff0d;'>m</span> <span style='color:#00c3ff;'>F</span><span style='color:#0011ff;'>r</span><span style='color:#7700ff;'>i</span><span style='color:#ff00fb;'>e</span><span style='color:#ff0066;'>n</span><span style='color:#ff0000;'>d</span><span style='color:#ff4000;'>s</span><span style='color:#ffc400;'>h</span><span style='color:#00ff0d;'>i</span><span style='color:#00c3ff;'>p</span></button>";
+  
+credits = function() {
+    credits = ["Credits", "Coding - u/Stell7", "Coding Help - _ohas", "Writing - Iceber, pizzagamer888, .tannenberg, thund3r_struck, spacecowboyguy, tungstenite_07"]
+    text = "CREDITS:\n\n"
+    for (i in credits) {
+        text += credits[i] + "\n"
+    }
+    alert(text)
+}
+
+
 
 campaignTrail_temp.global_parameter_json = [
     {
@@ -111,7 +122,7 @@ campaignTrail_temp.candidate_json = [
             "party": "The Democracy",
             "state": "Virginia",
             "priority": 1,
-            "description": "Windows.",
+            "description": "",
             "color_hex": "#0000FF",
             "secondary_color_hex": null,
             "is_active": 0,
@@ -223,7 +234,7 @@ function reallyUpdate() {
     const newHeader = $("<div>", {
         id: "game_header22",
         style: "background-color: #2354b5;",
-        html: `<img src="https://i.imgur.com/1GP31bs.png" alt="MADAM PRESIDENT" style="background-color: #2354b5; line-height: normal;">`
+        html: `<img src="https://i.imgur.com/S0pLcyj.png" alt="MADAM PRESIDENT" style="width: 960px;background-color: #2354b5; line-height: normal;">`
     });
 
     $("#game_window").prepend(newHeader); // Add the new header at the top of the game_window
@@ -584,9 +595,9 @@ function addRelationsButton() {
     const newButton = document.createElement('button');
     newButton.id = 'administration_button';
     newButton.style.marginLeft = '1.5em';
-    newButton.innerHTML = '<strong>National News</strong>';
+    newButton.innerHTML = 'National News';
     if (newRelationsData === true) {
-        newButton.innerHTML = '<strong>National News</strong>';
+        newButton.innerHTML = 'National News';
     }
     newButton.addEventListener('click', openRelationsView);
     refButton.insertAdjacentElement('afterend', newButton);
@@ -595,7 +606,7 @@ function addRelationsButton() {
 // Function to open the Administration Relations View
 function openRelationsView() {
     newRelationsData = false; // Reset new data indicator
-    document.getElementById('administration_button').innerHTML = '<strong>National News</strong>';
+    document.getElementById('administration_button').innerHTML = 'National News';
     let questions = document.querySelector(".inner_window_question");
     questions.style.display = 'none'; // Hide other content like in the original
 
@@ -689,6 +700,8 @@ if (!element) {
     controlElement.id = 'controlElement';
     document.body.appendChild(controlElement);
 }
+
+
 
 // Handle DOM mutations to add the button in case the target is not present
 function handleMutations(mutationsList, observer) {
