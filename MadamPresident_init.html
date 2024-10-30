@@ -27,16 +27,74 @@ campaignTrail_temp.temp_election_list = [
     }
 ]
 
-campaignTrail_temp.credits = "<button onclick='credits()' style='background-color: #223b61;'><span style='color:#ff0000;'>T</span><span style='color:#ff4000;'>e</span><span style='color:#ffc400;'>a</span><span style='color:#00ff0d;'>m</span> <span style='color:#00c3ff;'>F</span><span style='color:#0011ff;'>r</span><span style='color:#7700ff;'>i</span><span style='color:#ff00fb;'>e</span><span style='color:#ff0066;'>n</span><span style='color:#ff0000;'>d</span><span style='color:#ff4000;'>s</span><span style='color:#ffc400;'>h</span><span style='color:#00ff0d;'>i</span><span style='color:#00c3ff;'>p</span></button>";
-  
-credits = function() {
-    credits = ["Credits", "Coding - u/Stell7", "Coding Help - _ohas", "Writing - Iceber, pizzagamer888, .tannenberg, thund3r_struck, spacecowboyguy, tungstenite_07"]
-    text = "CREDITS:\n\n"
-    for (i in credits) {
-        text += credits[i] + "\n"
-    }
-    alert(text)
+
+
+e=campaignTrail_temp
+
+var changeGameDisp = (hide) => {
+  disp = "";
+  if (hide) {
+    disp = "none";
+  }
+  document.getElementsByClassName("inner_window_w_desc")[0].style.display = disp
+};
+e.creditsPage = () => {
+  credits_html = `
+    <h3>Coding</h3>
+    <a href='https://www.patreon.com/StephRees?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink' style='font-size: 20px;'target='_blank'>StephRees</a>
+    <h3>Coding Help</h3>
+    <p style='font-size: 20px;'>_ohas</p>
+    <h3>Writing</h3>
+    <p style='font-size: 20px;'>Iceber</p>
+    <p style='font-size: 20px;'>pizzagamer888</p>
+    <p style='font-size: 20px;'>tannenberg</p>
+    <p style='font-size: 20px;'>thund3r_struck</p>
+    <p style='font-size: 20px;'>tungstenite_07</p>
+    <h3>Playtesting/Misc. Help</h3>
+    </div>
+  `
+  changeGameDisp(true);
+  var CredDisp = document.createElement("creditmakingmenu");
+  CredDisp.innerHTML = "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
+  document
+    .getElementsByClassName("inner_window_w_desc")[0]
+    .children[1].appendChild(CredDisp);
+    changeGameDisp(true);
+    var menuHeader = document.createElement("div");
+    menuHeader.classList.add("inner_window_front");
+    menuHeader.innerHTML = `<h1><font color='#C9C9C9'>Credits</font></h1>`;
+    menuHeader.id = "creditsheader";
+    menuHeader.style = "height: 50px;background-color:rgb(1, 34, 87);";
+    var newMenu = document.createElement("div");
+    newMenu.classList.add("inner_window_front");
+    newMenu.id = "creditsmenu";
+    newMenu.style = `height:260px;background-color:rgb(1, 34, 87);color:white;overflow-y: scroll;`;
+
+    newMenu.innerHTML = credits_html;
+    let z = document.getElementById("game_window");
+    var backButton = document.createElement("button");
+    backButton.style =
+      "position: relative; bottom: -13px; left: -380px; width: 60px; height: 20px;font-size:100%;";
+    backButton.id = "backcredits";
+    backButton.innerHTML = `<b>Return</b>`;
+    backButton.onclick = function () {
+      document.getElementById("creditsheader").remove();
+      document.getElementById("creditsmenu").remove();
+      document.getElementById("backcredits").remove();
+      changeGameDisp(false);
+    };
+    z.appendChild(menuHeader);
+    z.appendChild(newMenu);
+    z.appendChild(backButton);
+
 }
+
+campaignTrail_temp.credits = `
+    <button onclick='e.creditsPage()' style='background-color: #223b61;' id='closey' aria-label='Show credits'><span style='color:#ff0000;'>T</span><span style='color:#ff4000;'>e</span><span style='color:#ffc400;'>a</span><span style='color:#00ff0d;'>m </span><span style='color:#00c3ff;'>F</span><span style='color:#0011ff;'>r</span><span style='color:#7700ff;'>i</span><span style='color:#ff00fb;'>e</span><span style='color:#ff0066;'>n</span><span style='color:#ff0000;'>d</span><span style='color:#ff4000;'>s</span><span style='color:#ffc400;'>h</span><span style='color:#00ff0d;'>i</span><span style='color:#00c3ff;'>p</span></button>
+`;
+
+
+
 
 
 
